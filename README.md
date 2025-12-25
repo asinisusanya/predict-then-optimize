@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Operations Research](https://img.shields.io/badge/Operations%20Research-Optimization-green)
+![MILP](https://img.shields.io/badge/MILP-PuLP%20%2B%20CBC-red)
+
 # Predict–Then–Optimize Framework for Nurse Staffing
 
 This project investigates how demand prediction errors affect nurse staffing decisions and operational cost using a **Predict–Then–Optimize (PTO)** framework.  
